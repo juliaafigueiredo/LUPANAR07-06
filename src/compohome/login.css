@@ -1,0 +1,39 @@
+.text{
+text-align: center; 
+font-size: 18px;
+padding-top: 150px;
+color: #FFFF; 
+}
+
+
+
+.login-form{
+background-color: var(--light-01);
+background-color: #B4B897;
+border-radius: 8px;
+padding: 100px;
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+width: 500px;
+
+margin-left: 740px;
+display: flex;
+padding-top: 60px;
+justify-content: center;
+}
+
+
+
+.remember-forgot{ /* espaçamento entre itens do forms */
+padding-top: 10px;
+
+padding-bottom: 25px;
+}
+
+.input-box{
+padding: 15px;    
+}
+
+.register-link{
+padding-top: 20px;
+}
+

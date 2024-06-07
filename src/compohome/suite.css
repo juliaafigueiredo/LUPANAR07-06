@@ -1,0 +1,62 @@
+body{
+background-color: #ffff; 
+}
+
+.quartos { 
+display: grid;
+grid-template-columns: repeat(6, 1fr);
+gap: 30px;
+width: 50%;
+align-items: stretch; 
+margin-top: 200px;
+margin-left: 70px;
+
+}
+
+.quarto1{
+
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: #B4B897
+}
+.quarto2{
+
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: #B4B897
+}
+
+.quarto3{
+
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: #B4B897
+}
+
+.valor1{
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: #849573
+
+}
+.valor2{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #849573
+
+}
+.valor3{
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: #849573
+
+}
+
+.Textoquartos{
+margin-left: 850px;
+margin-top: 50px;
+font-size: 20px;
+font-family: 'Poppins', sans-serif;
+color: #849573;
+
+}
+
+
+
+
+    
+

@@ -1,0 +1,14 @@
+.mais{
+ display: flex;
+ flex-direction: column;
+}
+
+
+.loc, .foto{
+margin-top: 30px;
+}
+
+.foto{
+width: 100%;    
+}
+
